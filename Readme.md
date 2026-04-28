@@ -158,6 +158,12 @@ This repository supports a broader project described as:
 
 
 ## A few ss from the project
+<img width="1062" height="1280" alt="photo_6307308677504897318_y" src="https://github.com/user-attachments/assets/ff8e06ad-2e05-4f53-b985-b29df3901db4" />
+
+<img width="1080" height="5789" alt="Screenshot_20260429-015143 Chrome~2" src="https://github.com/user-attachments/assets/705e622e-0ebe-48c5-a764-57411c24ddbf" />
+
+<img width="1080" height="954" alt="photo_6307308677504897317_y" src="https://github.com/user-attachments/assets/fa3d430d-e768-4bd0-8728-e3c985b12360" />
+
 
 
 
